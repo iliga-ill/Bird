@@ -26,9 +26,7 @@ public class MyWindow extends JFrame {
         g.clearRect(0,0,10000,10000);
         getGraphics().drawLine(0,height/2,width,height/2);
         getGraphics().drawLine(width/2,height,width/2,0);
-        if (GroupB.V>0) {
-            g.drawLine(0,0,height,height);
-        }
+
         f.draw(g);
     }
 

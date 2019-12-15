@@ -28,6 +28,7 @@ public class Bird extends MyWindow {
     g.drawLine(Xm,Ym,XM+size,Ym);
     g.drawLine(XM+size,Ym,XM+size,YM+size);
     }
+
 }
 
 

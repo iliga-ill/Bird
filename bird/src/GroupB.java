@@ -106,7 +106,7 @@ import javax.swing.*;
                         f.get(i).StartSqural(g);
                     }
                 }
-
             }
+
     }
 
